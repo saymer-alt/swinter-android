@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Red circle -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M24,2 C36.15,2 46,11.85 46,24 C46,36.15 36.15,46 24,46 C11.85,46 2,36.15 2,24 C2,11.85 11.85,2 24,2Z" />
+    <!-- O -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M7,18 C7,15.5 9,13.5 11.5,13.5 C14,13.5 16,15.5 16,18 L16,30 C16,32.5 14,34.5 11.5,34.5 C9,34.5 7,32.5 7,30 Z M10,18 L10,30 C10,30.83 10.67,31.5 11.5,31.5 C12.33,31.5 13,30.83 13,30 L13,18 C13,17.17 12.33,16.5 11.5,16.5 C10.67,16.5 10,17.17 10,18Z" />
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M18,13.5 L27,13.5 L27,16.5 L21,16.5 L21,22.5 L25.5,22.5 L25.5,25.5 L21,25.5 L21,34.5 L18,34.5Z" />
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M29,13.5 L38,13.5 L38,16.5 L32,16.5 L32,22.5 L36.5,22.5 L36.5,25.5 L32,25.5 L32,34.5 L29,34.5Z" />
+</vector>

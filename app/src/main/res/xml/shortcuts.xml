@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="toggle_vpn"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:shortcutShortLabel="@string/shortcut_toggle"
+        android:shortcutLongLabel="@string/shortcut_toggle_long">
+        <intent
+            android:action="com.swinter.vpn.TOGGLE"
+            android:targetPackage="com.swinter.vpn"
+            android:targetClass="com.swinter.vpn.MainActivity" />
+    </shortcut>
+</shortcuts>

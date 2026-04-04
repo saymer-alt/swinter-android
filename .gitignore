@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+
+# IDE
+.idea/
+*.swp
+
+# Secrets
+*.env
+*.keystore
+*.jks
+
+# Go AAR (rebuild from golib)
+# app/libs/*.aar
+
+# Claude memory
+.claude/
+.claude-flow/

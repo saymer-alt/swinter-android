@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swinter</string>
+    <string name="shortcut_toggle">VPN вкл/выкл</string>
+    <string name="shortcut_toggle_long">Переключить VPN</string>
+    <string name="widget_description">Быстрое включение/выключение VPN</string>
+</resources>
